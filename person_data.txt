@@ -1,0 +1,9 @@
+Person ID: 94f=$ys%JE
+First Name: E
+Last Name: Smith
+Birthdate: 12-02-2001
+Address: 35|Lonsdale|Melbourne|Victoria|Canada
+Deremit Points:
+2009: 6
+2010: 5
+--------------------------------------------------
