@@ -1,0 +1,48 @@
+ID                  :78&^_abCDZ
+1)
+OffenseDate         :15-05-2024
+Points              :3
+Status: Not Suspended
+-----------------------------------------------------------------
+ID                  :89!@abGHYZ
+1)
+OffenseDate         :01-01-2024
+Points              :4
+Status: Not Suspended
+-----------------------------------------------------------------
+ID                  :89!@abGHYZ
+1)
+OffenseDate         :01-01-2024
+Points              :4
+2)
+OffenseDate         :01-06-2024
+Points              :3
+Status:  Suspended
+-----------------------------------------------------------------
+ID                  :88%$abXZDF
+1)
+OffenseDate         :01-01-2024
+Points              :6
+Status: Not Suspended
+-----------------------------------------------------------------
+ID                  :88%$abXZDF
+1)
+OffenseDate         :01-01-2024
+Points              :6
+2)
+OffenseDate         :01-06-2024
+Points              :6
+Status: Not Suspended
+-----------------------------------------------------------------
+ID                  :88%$abXZDF
+1)
+OffenseDate         :01-07-2024
+Points              :1
+2)
+OffenseDate         :01-01-2024
+Points              :6
+3)
+OffenseDate         :01-06-2024
+Points              :6
+Status:  Suspended
+-----------------------------------------------------------------
